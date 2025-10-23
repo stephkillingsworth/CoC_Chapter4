@@ -13,6 +13,8 @@ It is provided to support classroom instruction, group learning, and personal de
 **Images and visual materials included in this lesson are licensed or created specifically for educational use and may not be reused in any public or published format.**
 **No part of this content may be altered or repurposed for publication, social media, or marketing without explicit written permission from the content owner.**
 
+For more information contact [Scientist in Every Florida School](https://www.floridamuseum.ufl.edu/earth-systems/scientist-in-every-florida-school/).
+
 # Acknowledgements:
 
 * Horse tooth images are courtesy of the following museum collections: United States National Museum (Smithsonian), American Museum of Natural History, Florida Museum of Natural History, Los Angeles County Museum, University of California at Berkeley, Panhandle Plains Historic Museum, and the New Mexico Museum of Natural History and Science.
