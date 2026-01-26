@@ -1,4 +1,4 @@
-# CoC_Chapter4
+# CoC_Lesson_4
 Chewing on Change Chapter 4 Lesson
 
 # Overview
