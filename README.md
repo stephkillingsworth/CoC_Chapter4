@@ -23,7 +23,7 @@ This lesson is part of the [Chewing on Change](https://www.floridamuseum.ufl.edu
 
 ### Optional Extension Materials
 [Paleontologist Videos on Methods in Science](https://youtube.com/playlist?list=PL7z0_mCgStR6sOx6amJveiTHZ2QARU5tt&si=Xzkr1bCGvN1Cc4iY) by TESI [10:00 total, three videos]\
-[Equus Documentary](https://youtu.be/kwrMk-3OTWU?si=vPdfoNXnUJliMbwo) by PBS [51:20, first ten minutes most recommended]\
+[Equus Documentary]([https://youtu.be/kwrMk-3OTWU?si=vPdfoNXnUJliMbwo](https://youtu.be/kwrMk-3OTWU?si=NW-owF8m173A7Ya6)) by PBS [51:20, first ten minutes most recommended]\
 [Deep Time Video: 4.5 Billion Years in 24 Hours](https://youtu.be/H2_6cqa2cP4?si=4IukdULnzmgG6BME) by ASAPScience [2:20]\
 [VIDA Evolution Worksheet](https://www.biologycorner.com/2019/04/19/evolution-vida-chart/)
 
