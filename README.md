@@ -10,7 +10,7 @@ This lesson is part of the [Chewing on Change](https://www.floridamuseum.ufl.edu
 [Module Four Teaching Slides](https://docs.google.com/presentation/d/10gKRaOWJf8B2cZB6aLbFMtzlbLO6JCk-)\
 [Speaking Notes for Module Four Teaching Slides](https://docs.google.com/document/d/1gtcOh7k3P4Q7F0WgfF6XvP1PE_vLjvEh)\
 [Access to mybinder.org](https://mybinder.org/)\
-[Articles for Jigsaw Activity (annotated pdfs)](https://www.dropbox.com/scl/fo/j0xve01qze7c9is1jlxs6/AFkqHouggXYLdm17bRs4pvA?rlkey=7pbj1ucik2gsds8tfstbbwu7b&st=sd8kb3ub&dl=0)\
+[Articles for Jigsaw Activity (annotated pdfs)](https://www.dropbox.com/scl/fo/j0xve01qze7c9is1jlxs6/AFkqHouggXYLdm17bRs4pvA?rlkey=7pbj1ucik2gsds8tfstbbwu7b&st=sd8kb3ub&dl=0)
 + Alterative: Web version of [Conservation and Biology](https://theconversation.com/thousands-more-species-at-risk-of-extinction-than-currently-recorded-suggests-new-study-188243)
 + Alterative: Web version of [Climate Studies and Meteorology](https://theconversation.com/ai-powered-weather-and-climate-models-are-set-to-change-the-future-of-forecasting-235186)
 + Alterative: Web version of [Astronomy](https://theconversation.com/ai-is-helping-astronomers-make-new-discoveries-and-learn-about-the-universe-faster-than-ever-before-204351)
