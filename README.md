@@ -21,11 +21,34 @@ This lesson is part of the [Chewing on Change](https://www.floridamuseum.ufl.edu
 [Video Walkthrough of mybinder.org](https://youtu.be/X-fqzLilK3U?si=UVowr8p4pphxGJ3E)\
 [Under-the-Hood Code Explainer](https://docs.google.com/document/d/1QUaz9mrAzDCPI8hBsMQYRmU5uphps6K0)
 
-### Optional Extension Materials
-[Paleontologist Videos on Methods in Science](https://youtube.com/playlist?list=PL7z0_mCgStR6sOx6amJveiTHZ2QARU5tt&si=Xzkr1bCGvN1Cc4iY) by TESI [10:00 total, three videos]\
-[Equus Documentary](https://youtu.be/kwrMk-3OTWU?si=NW-owF8m173A7Ya6) by PBS [51:20, first ten minutes most recommended]\
+### Optional Supplementary Materials
+You can view all additional materials in [a Google Drive here](https://drive.google.com/drive/folders/1RPLIIcMUQa2jmbKpYUtUgIfR1Gcvr87t?usp=drive_link) or see the breakdown below per lesson.
+
+#### Lesson One Materials
+[Eohippus Documentary Snippet](https://drive.google.com/file/d/1LwtfT8Kiny5Zf7Ll5Ho_8Ce_lz9FEk1t/view?usp=drive_link) by PBS [6:23]\
 [Deep Time Video: 4.5 Billion Years in 24 Hours](https://youtu.be/H2_6cqa2cP4?si=4IukdULnzmgG6BME) by ASAPScience [2:20]\
-[VIDA Evolution Worksheet](https://www.biologycorner.com/2019/04/19/evolution-vida-chart/)
+[Fossilization Video: How to Fossilize Yourself](https://youtu.be/yDIQzUSezmA?si=rnrvaCCt0PIUk_Eh) by TED-Ed [5:13]\
+[Cat and Horse Coloring Sheet](https://github.com/stephkillingsworth/CoC_Chapter4/blob/main/Lesson%20Materials/Lesson%20One/Cat%20vs%20Horse%20Coloring%20Page.pdf)\
+[Epoch Cards - Simplified Descriptions as PDF](https://github.com/stephkillingsworth/CoC_Chapter4/blob/main/Lesson%20Materials/Lesson%20One/L1%20Epoch%20Cards%20-%20Simplified%20Descriptions%20(1).pdf)\
+[Epoch Cards - Simplified Descriptions as PPTX](https://github.com/stephkillingsworth/CoC_Chapter4/blob/main/Lesson%20Materials/Lesson%20One/L1%20Epoch%20Cards%20-%20Simplified%20Descriptions.pptx)\
+[Epoch Cards - Extended Descriptions](https://github.com/stephkillingsworth/CoC_Chapter4/blob/main/Lesson%20Materials/Lesson%20One/Epoch%20Cards%20-%20Extended%20Descriptions.pdf)\
+[Optional Geologic Timeline Activity Teacher Notes](https://github.com/stephkillingsworth/CoC_Chapter4/blob/main/Lesson%20Materials/Lesson%20One/Optional%20Geologic%20Timeline%20Activity%20Teacher%20Notes.docx)\
+[Phytoliths as climate clues Science News Article](https://github.com/stephkillingsworth/CoC_Chapter4/blob/main/Lesson%20Materials/Lesson%20One/Phytoliths%20as%20climate%20clues%20Science%20News%20Article.pdf)
+
+#### Lesson Two Materials
+[Natural Selection Notes](https://github.com/stephkillingsworth/CoC_Chapter4/blob/main/Lesson%20Materials/Lesson%20Two/L2%20NATURAL%20SELECTION%20NOTES.pdf)\
+[VIDA chart for evolution](https://github.com/stephkillingsworth/CoC_Chapter4/blob/main/Lesson%20Materials/Lesson%20Two/L2%20VIDA%20chart%20for%20evolution%20.docx)\
+[VIDA Horse KEY](https://github.com/stephkillingsworth/CoC_Chapter4/blob/main/Lesson%20Materials/Lesson%20Two/L2%20VIDA%20Horse%20KEY.docx)\
+[Where the Wild Things Aren't - Genetic Diversity and Conservation in Cheetahs](https://github.com/stephkillingsworth/CoC_Chapter4/blob/main/Lesson%20Materials/Lesson%20Two/L2%20Where%20the%20Wild%20Things%20Aren't%20--%20Genetic%20Diversity%20and%20Conservation%20in%20Cheetahs.docx)\
+[Where the Wild Things Aren't - Przewalski's horse](https://github.com/stephkillingsworth/CoC_Chapter4/blob/main/Lesson%20Materials/Lesson%20Two/L2%20Where%20the%20Wild%20Things%20Aren't%20-Przewalski's%20horse.pdf)
+
+#### Lesson Three Materials
+[Horse Poster Paragraph](https://github.com/stephkillingsworth/CoC_Chapter4/blob/main/Lesson%20Materials/Lesson%20Three/L3%20Horse%20Poster%20Paragraph.pdf)\
+[MacFadden 2012 Article](https://github.com/stephkillingsworth/CoC_Chapter4/blob/main/Lesson%20Materials/Lesson%20Three/L3%20MacFadden2012_Article_Image_Removed.pdf)\
+[“Fossil Horses, Orthogenesis, and Communicating Evolution in Museums Questions](https://github.com/stephkillingsworth/CoC_Chapter4/blob/main/Lesson%20Materials/Lesson%20Three/L3%20%E2%80%9CFossil%20Horses%2C%20Orthogenesis%2C%20and%20Communicating%20Evolution%20in%20Museums%20Questions.docx)
+
+#### Lesson Four Materials
+[Paleontologist Videos on Methods in Science](https://youtube.com/playlist?list=PL7z0_mCgStR6sOx6amJveiTHZ2QARU5tt&si=Xzkr1bCGvN1Cc4iY) by TESI [10:00 total, three videos]
 
 # Usage Disclaimer
 **This content is intended solely for educational purposes.**
