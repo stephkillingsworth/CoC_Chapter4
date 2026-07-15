@@ -45,7 +45,8 @@ You can view all additional materials in [a Google Drive here](https://drive.goo
 #### Lesson Three Materials
 [Horse Poster Paragraph](https://github.com/stephkillingsworth/CoC_Chapter4/blob/main/Lesson%20Materials/Lesson%20Three/L3%20Horse%20Poster%20Paragraph.pdf)\
 [MacFadden 2012 Article](https://github.com/stephkillingsworth/CoC_Chapter4/blob/main/Lesson%20Materials/Lesson%20Three/L3%20MacFadden2012_Article_Image_Removed.pdf)\
-[“Fossil Horses, Orthogenesis, and Communicating Evolution in Museums Questions](https://github.com/stephkillingsworth/CoC_Chapter4/blob/main/Lesson%20Materials/Lesson%20Three/L3%20%E2%80%9CFossil%20Horses%2C%20Orthogenesis%2C%20and%20Communicating%20Evolution%20in%20Museums%20Questions.docx)
+[“Fossil Horses, Orthogenesis, and Communicating Evolution in Museums Questions](https://github.com/stephkillingsworth/CoC_Chapter4/blob/main/Lesson%20Materials/Lesson%20Three/L3%20%E2%80%9CFossil%20Horses%2C%20Orthogenesis%2C%20and%20Communicating%20Evolution%20in%20Museums%20Questions.docx)\
+[Digital Variation of Poster Project in Canva](https://canva.link/klhvrmgruvmttki)
 
 #### Lesson Four Materials
 [Paleontologist Videos on Methods in Science](https://youtube.com/playlist?list=PL7z0_mCgStR6sOx6amJveiTHZ2QARU5tt&si=Xzkr1bCGvN1Cc4iY) by TESI [10:00 total, three videos]
