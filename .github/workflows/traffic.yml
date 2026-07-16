@@ -1,0 +1,45 @@
+name: Save GitHub Traffic
+
+on:
+  schedule:
+    - cron: '0 5 * * *'
+  workflow_dispatch:
+
+jobs:
+  traffic:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch traffic
+        env:
+          TOKEN: ${{ secrets.TRAFFIC_TOKEN }}
+        run: |
+          mkdir -p analytics
+
+          DATE=$(date +%F)
+
+          VIEWS=$(curl -s \
+            -H "Authorization: token $TOKEN" \
+            https://api.github.com/repos/stephkillingsworth/CoC_Chapter4/traffic/views)
+
+          CLONES=$(curl -s \
+            -H "Authorization: token $TOKEN" \
+            https://api.github.com/repos/stephkillingsworth/CoC_Chapter4/traffic/clones)
+
+          VIEW_COUNT=$(echo "$VIEWS" | jq '.count')
+          UNIQUE_VISITORS=$(echo "$VIEWS" | jq '.uniques')
+
+          CLONE_COUNT=$(echo "$CLONES" | jq '.count')
+          UNIQUE_CLONERS=$(echo "$CLONES" | jq '.uniques')
+
+          echo "$DATE,$VIEW_COUNT,$UNIQUE_VISITORS,$CLONE_COUNT,$UNIQUE_CLONERS" >> analytics/traffic.csv
+
+      - name: Commit changes
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add analytics/traffic.csv
+          git commit -m "Update traffic metrics" || exit 0
+          git push
