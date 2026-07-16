@@ -2,7 +2,7 @@
 Chewing on Change Chapter 4 Lesson
 
 # Overview
-This lesson is part of the [Chewing on Change](https://www.floridamuseum.ufl.edu/fossilproject/chewing-on-change-horse-evolution/) educational curriculum written and designed for for K-12 and undergraduate classrooms. The lessons teach concepts on macroevolution of horses in response to climate change. 
+This lesson is part of the [Chewing on Change](https://www.floridamuseum.ufl.edu/fossilproject/chewing-on-change-horse-evolution/) educational curriculum written and designed for K-12 and undergraduate classrooms. The lessons teach concepts on macroevolution of horses in response to climate change. 
 
 # Materials for Classroom Use
 ### Primary Materials
@@ -49,7 +49,17 @@ You can view all additional materials in [a Google Drive here](https://drive.goo
 [Digital Variation of Poster Project in Canva](https://canva.link/klhvrmgruvmttki)
 
 #### Lesson Four Materials
-[Paleontologist Videos on Methods in Science](https://youtube.com/playlist?list=PL7z0_mCgStR6sOx6amJveiTHZ2QARU5tt&si=Xzkr1bCGvN1Cc4iY) by TESI [10:00 total, three videos]
+[Paleontologist Videos on Methods in Science](https://youtube.com/playlist?list=PL7z0_mCgStR6sOx6amJveiTHZ2QARU5tt&si=Xzkr1bCGvN1Cc4iY) by TESI [10:00 total, three videos]\
+##### Resources on data centers, computer processing, and the environment
+For students: 
++ ["How Thirsty Is AI?"](https://andymasley.com/visuals/water/) an interactive visual from Andy Masley
++ ["AI has a hidden water cost − here’s how to calculate yours"](https://theconversation.com/ai-has-a-hidden-water-cost-heres-how-to-calculate-yours-263252) by Leo S. Lo for The Conversation
++ ["Despite its steep environmental costs, AI might also help save the planet"](https://theconversation.com/despite-its-steep-environmental-costs-ai-might-also-help-save-the-planet-272474) by Nir Kshetri for The Conversation
++ ["5 ways data centers endanger their local communities and the country as a whole"](https://theconversation.com/5-ways-data-centers-endanger-their-local-communities-and-the-country-as-a-whole-282348) by Neha Gour, Edward Maibach, and Luis Ortiz for The Conversation
++ ["Data centers don’t have to be a burden on local communities – and can even support them by generating power and repurposing waste heat"](https://theconversation.com/data-centers-dont-have-to-be-a-burden-on-local-communities-and-can-even-support-them-by-generating-power-and-repurposing-waste-heat-276729) by Gregor Henze and Sean Shaheen for The Conversation
+For teachers
++ ["How Much Water Does the A.I. Industry Use?"](https://www.nytimes.com/video/technology/100000010606632/how-much-water-does-the-ai-industry-use.html), Video by the New York Times [1:03].
++ ["The Real Energy Cost of AI, Explained With Steaks and a Data Center Trip"](https://www.wsj.com/video/series/joanna-stern-personal-technology/the-real-energy-cost-of-ai-explained-with-steaks-and-a-data-center-trip/2D96A1F1-89C7-40BF-9E06-A3B8FC0DE683), Video by the Wall Street Journal [7:05].
 
 # Usage Disclaimer
 **This content is intended solely for educational purposes.**
