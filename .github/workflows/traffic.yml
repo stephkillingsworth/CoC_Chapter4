@@ -36,14 +36,21 @@ jobs:
 
           CLONE_COUNT=$(echo "$CLONES" | jq '.count')
           UNIQUE_CLONERS=$(echo "$CLONES" | jq '.uniques')
+          REPO=$(curl -s \
+            -H "Authorization: token $TOKEN" \
+            https://api.github.com/repos/stephkillingsworth/CoC_Chapter4)
 
+          STARS=$(echo "$REPO" | jq '.stargazers_count')
+          FORKS=$(echo "$REPO" | jq '.forks_count')
+          WATCHERS=$(echo "$REPO" | jq '.subscribers_count')
+          ISSUES=$(echo "$REPO" | jq '.open_issues_count')
           if [ ! -f analytics/traffic.csv ]; then
-            echo "date,views,unique_visitors,clones,unique_cloners" > analytics/traffic.csv
-          fi
+          echo "date,total_repository_page_views,unique_visitors,total_clone_events,unique_cloners,stars,forks,watchers,open_issues" > 
+          analytics/traffic.csv
 
           if ! grep -q "^$DATE," analytics/traffic.csv; then
-            echo "$DATE,$VIEW_COUNT,$UNIQUE_VISITORS,$CLONE_COUNT,$UNIQUE_CLONERS" >> analytics/traffic.csv
-          fi
+          echo "$DATE,$VIEW_COUNT,$UNIQUE_VISITORS,$CLONE_COUNT,$UNIQUE_CLONERS,$STARS,$FORKS,$WATCHERS,$ISSUES" >> 
+          analytics/traffic.csv            
 
       - name: Commit changes
         run: |
