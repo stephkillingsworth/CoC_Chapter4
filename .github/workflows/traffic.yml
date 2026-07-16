@@ -4,8 +4,10 @@ on:
   schedule:
     - cron: '0 5 * * *'
   workflow_dispatch:
+
 permissions:
   contents: write
+
 jobs:
   traffic:
     runs-on: ubuntu-latest
@@ -35,7 +37,14 @@ jobs:
           CLONE_COUNT=$(echo "$CLONES" | jq '.count')
           UNIQUE_CLONERS=$(echo "$CLONES" | jq '.uniques')
 
-          echo "$DATE,$VIEW_COUNT,$UNIQUE_VISITORS,$CLONE_COUNT,$UNIQUE_CLONERS" >> analytics/traffic.csv
+          if [ ! -f analytics/traffic.csv ]; then
+            echo "date,views,unique_visitors,clones,unique_cloners" > analytics/traffic.csv
+          fi
+
+          if ! grep -q "^$DATE," analytics/traffic.csv; then
+            echo "$DATE,$VIEW_COUNT,$UNIQUE_VISITORS,$CLONE_COUNT,$UNIQUE_CLONERS" >> analytics/traffic.csv
+          fi
+
       - name: Commit changes
         run: |
           git config --global user.name "github-actions[bot]"
